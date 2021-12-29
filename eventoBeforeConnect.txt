@@ -1,0 +1,13 @@
+procedure TDMEmpresa.ConeccaoPrincipalBeforeConnect(Sender: TObject);
+var s,sDirBD: string;
+begin
+    if DirectoryExists(s) then begin
+      s := s + '\bin\mysqld-nt.exe --defaults-file=opmysql.cnf';
+      TCarregarMySQL.Execute( s,ConeccaoPrincipal,'UniConta' );
+      try
+        FCarregaMySQL := false;
+      except
+        FCarregaMySQL := true;
+      end;
+    end;
+end;

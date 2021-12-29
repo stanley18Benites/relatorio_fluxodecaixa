@@ -1,0 +1,17 @@
+131226 18:11:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+131226 18:11:50  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43655.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43655
+131226 18:11:50  InnoDB: Started; log sequence number 0 43655
+131226 18:11:50 [Note] D:\work\conta\UniContaWin\MySQL50\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131226 18:14:18  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.

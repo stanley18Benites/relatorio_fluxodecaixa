@@ -1,0 +1,11 @@
+[mysqld]
+basedir = D:/temp/stanley/mysql50
+datadir = D:/temp/stanley/dados
+flush
+standalone
+log-error = sistema.err
+log-warnings
+skip-thread-priority
+language = portuguese
+bind-address = localhost
+port = 3366

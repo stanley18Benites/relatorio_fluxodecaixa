@@ -1,0 +1,48 @@
+  I. Para carregar o MySQL:
+
+
+     \MySQL50\bin\mysqld-nt.exe --basedir=/mysql50 --datadir=/work/FINANCEIRO/EXE/DADOS --flush --standalone --log-error=Mercador.err --log-warnings --skip-thread-priority --language=portuguese --bind-address=127.0.0.1 --port=3306 
+
+
+
+ II. Para desligar o MySQL:
+     \MySQL50\bin\mysqladmin.exe shutdown
+
+
+III. para entrar no MySQL monitor:
+
+     no diretorio "\mysql50\bin" digite:  mysql -uroot
+
+ IV. para criar um banco de dados:
+     no prompt do mysql digite:
+
+     CREATE  DATABASE  CADASTRO;
+
+     para criar o banco de dados "cadastro"
+
+
+
+
+     E:\dicasMYSQL\mysql\Manual do MySQL_32352  (pag 116)
+
+
+
+
+Por defini÷c~ao, o MySQL-Windows ‚ configurado para ser instalado em 'c:\mysql'. Se voc^e
+deseja instalar o MySQL em outro lugar, instale-o primeiramente em 'c:\mysql', ent~ao
+mova a instala÷c~ao para onde voc^e preferir. Se voc^e mover o MySQL, deve indicar onde
+est  localizado usando a op÷c~ao --basedir quando iniciar o servidor. Por exemplo, se voc^e
+mover a distribui÷c~ao MySQL para 'd:\programs\mysql', voc^e deve iniciar o mysqld assim:
+C:\> D:\programs\mysql\bin\mysqld --basedir D:\programs\mysql
+Use mysqld --help para mostrar todas as op÷c~oes que o mysqld aceita!
+Em todas novas vers~oes do MySQL, voc^e pode tamb‚m criar um arquivo 'c:\my.cnf'
+que guarda todas as op÷c~oes padr~oes para o servidor MySQL. Copie o arquivo
+'\mysql\my-xxxx.cnf' para 'c:\my.cnf' e edite-o para atender suas necessidades.
+
+
+
+
+No Windows NT voc^e deve instalar o mysqld como um servi÷co, como abaixo:
+bin\mysqld-nt --install'
+
+

@@ -1,0 +1,67 @@
+unit fRelatorioEmpresa;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, RLReport, Data.DB;
+
+type
+  TfrmRelatorioEmpresa = class(TForm)
+    rpNome: TRLReport;
+    rlb_Cabecalho: TRLBand;
+    lbTitulo: TRLLabel;
+    RLSystemInfo1: TRLSystemInfo;
+    RLDBText1: TRLDBText;
+    dsFormulario: TDataSource;
+    RLBand1: TRLBand;
+    RLBand2: TRLBand;
+    RLLabel1: TRLLabel;
+    RLLabel2: TRLLabel;
+    RLLabel3: TRLLabel;
+    RLDBText3: TRLDBText;
+    RLDBText4: TRLDBText;
+    RLBand3: TRLBand;
+    RLSystemInfo2: TRLSystemInfo;
+    RLDBText2: TRLDBText;
+    RLLabel4: TRLLabel;
+    perido1: TRLLabel;
+    RLLabel6: TRLLabel;
+    periodo2: TRLLabel;
+    RLLabel8: TRLLabel;
+    procedure RLBand2AfterPrint(Sender: TObject);
+    procedure perido1AfterPrint(Sender: TObject);
+
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmRelatorioEmpresa: TfrmRelatorioEmpresa;
+
+implementation
+uses uDmPrincipal, uRelatorio_Menu;
+
+{$R *.dfm}
+
+procedure TfrmRelatorioEmpresa.RLBand2AfterPrint(Sender: TObject);
+var
+  cont : Integer;
+begin
+
+end;
+
+
+
+
+procedure TfrmRelatorioEmpresa.perido1AfterPrint(Sender: TObject);
+var
+ perr : String;
+begin
+  perr := frmRelatorio_Menu.per1;
+  periodo1 := perr;
+end;
+
+end.

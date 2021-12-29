@@ -1,0 +1,39 @@
+unit fRelatorioClientes;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, RLReport, Data.DB;
+
+type
+  TfrmRelatorioClientes = class(TForm)
+    RLReport1: TRLReport;
+    RLBand1: TRLBand;
+    lbTitulo: TRLLabel;
+    RLSystemInfo1: TRLSystemInfo;
+    RLDBText1: TRLDBText;
+    RLBand3: TRLBand;
+    RLGroup1: TRLGroup;
+    RLBand2: TRLBand;
+    RLDBText2: TRLDBText;
+    RLDBText3: TRLDBText;
+    RLDBText4: TRLDBText;
+    RLBand4: TRLBand;
+    RLBand5: TRLBand;
+    DataSource1: TDataSource;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmRelatorioClientes: TfrmRelatorioClientes;
+
+implementation
+
+
+{$R *.dfm}
+
+end.

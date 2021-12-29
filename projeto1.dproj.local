@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/26 11:43:22.000.713,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/26 13:38:14.000.190,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/26 13:38:44.000.962,C:\PROJETO\uPrincipal.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/26 13:38:44.000.962,C:\PROJETO\uPrincipal.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/26 13:39:08.000.810,C:\PROJETO\projeto1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/26 13:51:46.000.488,=C:\PROJETO\Unit2.pas</Transaction>
+    <Transaction>2021/11/26 15:50:09.000.454,C:\PROJETO\uEmpresa.dfm=C:\PROJETO\Unit2.dfm</Transaction>
+    <Transaction>2021/11/26 15:50:09.000.454,C:\PROJETO\uEmpresa.pas=C:\PROJETO\Unit2.pas</Transaction>
+    <Transaction>2021/11/26 15:51:11.000.852,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/11/26 15:51:43.000.916,C:\PROJETO\uMenu.dfm=C:\PROJETO\Unit1.dfm</Transaction>
+    <Transaction>2021/11/26 15:51:43.000.916,C:\PROJETO\uMenu.pas=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/11/26 16:46:30.000.491,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/11/26 16:51:40.000.449,C:\PROJETO\Unit1.pas=C:\PROJETO\uDmPrincipal.pas</Transaction>
+    <Transaction>2021/11/26 16:51:40.000.449,C:\PROJETO\Unit1.dfm=C:\PROJETO\uDmPrincipal.dfm</Transaction>
+    <Transaction>2021/12/02 09:24:11.000.856,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/02 09:26:44.000.280,C:\PROJETO\uCliente.pas=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/02 09:26:44.000.280,C:\PROJETO\uCliente.dfm=C:\PROJETO\Unit1.dfm</Transaction>
+    <Transaction>2021/12/02 16:22:10.000.344,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/02 16:40:05.000.688,C:\PROJETO\Unit1.dfm=C:\PROJETO\fRelatorioClientes.dfm</Transaction>
+    <Transaction>2021/12/02 16:40:05.000.688,C:\PROJETO\Unit1.pas=C:\PROJETO\fRelatorioClientes.pas</Transaction>
+    <Transaction>2021/12/02 17:22:15.000.430,C:\PROJETO\fRelatorioEmpresa.pas=C:\PROJETO\fRelatorioClientes.pas</Transaction>
+    <Transaction>2021/12/02 17:22:15.000.430,C:\PROJETO\fRelatorioEmpresa.dfm=C:\PROJETO\fRelatorioClientes.dfm</Transaction>
+    <Transaction>2021/12/02 17:28:46.000.247,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/02 17:31:41.000.172,C:\PROJETO\uRelatorio_Menu.dfm=C:\PROJETO\Unit1.dfm</Transaction>
+    <Transaction>2021/12/02 17:31:41.000.172,C:\PROJETO\uRelatorio_Menu.pas=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 13:29:47.000.803,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 13:30:19.000.521,C:\PROJETO\uRecibo.dfm=C:\PROJETO\Unit1.dfm</Transaction>
+    <Transaction>2021/12/07 13:30:19.000.521,C:\PROJETO\uRecibo.pas=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 14:22:03.000.351,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 14:28:25.000.543,C:\PROJETO\Unit1.dfm=C:\Users\User\AppData\Roaming\Microsoft\Windows\Network Shortcuts\uReciboMenu.dfm</Transaction>
+    <Transaction>2021/12/07 14:28:25.000.543,C:\PROJETO\Unit1.pas=C:\Users\User\AppData\Roaming\Microsoft\Windows\Network Shortcuts\uReciboMenu.pas</Transaction>
+    <Transaction>2021/12/07 16:20:45.000.782,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 16:21:21.000.942,=C:\PROJETO\Unit2.pas</Transaction>
+    <Transaction>2021/12/07 16:21:48.000.825,C:\PROJETO\Unit2.pas=C:\PROJETO\Um.pas</Transaction>
+    <Transaction>2021/12/07 16:31:28.000.023,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 16:32:11.000.090,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 16:34:28.000.812,C:\PROJETO\Um.pas=</Transaction>
+    <Transaction>2021/12/07 17:19:27.000.414,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 17:21:31.000.620,C:\PROJETO\Um.pas=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 18:00:38.000.531,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 18:01:11.000.308,C:\PROJETO\Unit1.pas=C:\PROJETO\uUnit.pas</Transaction>
+    <Transaction>2021/12/07 18:01:11.000.308,C:\PROJETO\Unit1.dfm=C:\PROJETO\uUnit.dfm</Transaction>
+    <Transaction>2021/12/08 10:53:18.000.737,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/08 10:54:01.000.239,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/08 10:58:44.000.227,C:\PROJETO\Unit1.pas=C:\PROJETO\extenso.pas</Transaction>
+    <Transaction>2021/12/08 16:02:20.000.156,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/08 16:10:08.000.777,C:\PROJETO\UnExtenso.pas=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/08 17:46:58.000.245,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/16 17:13:36.000.616,=C:\PROJETO\FCarregarMySQL.pas</Transaction>
+    <Transaction>2021/12/17 13:42:01.000.890,C:\PROJETO\FCarregarMySQL.pas=</Transaction>
+    <Transaction>2021/12/20 08:15:01.000.406,=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/20 08:15:21.000.499,C:\PROJETO\unitCarregarMySQL.pas=C:\PROJETO\Unit1.pas</Transaction>
+    <Transaction>2021/12/21 14:22:42.000.250,C:\PROJETO\unitCarregarMySQL.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="fRelatorioEmpresa.pas"/>
+    <File Path="fRelatorioEmpresa.dfm"/>
+    <File Path="uCliente.pas"/>
+    <File Path="uCliente.dfm"/>
+    <File Path="uEmpresa.pas"/>
+    <File Path="uEmpresa.dfm"/>
+    <File Path="uMenu.pas"/>
+    <File Path="uMenu.dfm"/>
+    <File Path="uPrincipal.pas"/>
+    <File Path="uPrincipal.dfm"/>
+    <File Path="uRecibo.pas"/>
+    <File Path="uRecibo.dfm"/>
+    <File Path="uRelatorio_Menu.pas"/>
+    <File Path="uRelatorio_Menu.dfm"/>
+    <File Path="UnExtenso.pas"/>
+    <File Path="uDmPrincipal.pas"/>
+    <File Path="uDmPrincipal.dfm"/>
+    <File Path="uReciboMenu.pas"/>
+    <File Path="uReciboMenu.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
